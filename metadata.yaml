@@ -1,0 +1,35 @@
+_repo: Tropical-nature-and-other-essays_73563
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wallace, Alfred Russel
+    aliases:
+    - Wallace, A. R. (Alfred Russel)
+    - Wallace, Russell
+    - Wallace, Alfred R.
+    birthdate: 1823
+    deathdate: 1913
+    gutenberg_agent_id: '955'
+    url: http://www.gutenberg.org/2009/agents/955
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
+description: ''
+gutenberg_issued: '2024-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73563'
+language: en
+pgterms:marc904: https://archive.org/details/tropicalnatureo00wall
+pgterms:marc905: 20230417070705wallace
+pgterms:marc906: '1878'
+pgterms:marc907: gb
+production_note: Aaron Adrignola, Neil Mercer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bMacmillan and Co., $c1878.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tropical nature, and other essays
+url: http://www.gutenberg.org/ebooks/73563
