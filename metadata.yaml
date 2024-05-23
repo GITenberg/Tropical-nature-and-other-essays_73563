@@ -1,5 +1,8 @@
 _repo: Tropical-nature-and-other-essays_73563
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73563-h/images/cover.jpg
 creator:
   author:
     agent_name: Wallace, Alfred Russel
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/955
     wikipedia: https://en.wikipedia.org/wiki/Alfred_Russel_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73563#Tropical-nature-and-other-essays
 gutenberg_issued: '2024-05-07'
 gutenberg_type: Text
 identifiers:
